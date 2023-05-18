@@ -1,3 +1,5 @@
+## terraform import aws_instance.terraform_import <instance_id>
+
 provider "aws" {
   region     = "ap-south-1"
   access_key = "YOUR ACCESS KEY"
